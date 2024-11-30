@@ -1,0 +1,1 @@
+newman run Restful_Booker.postman_collection.json -e restful_booking_env.postman_environment.json -r cli,htmlextra -n 2
