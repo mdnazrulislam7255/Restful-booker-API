@@ -367,5 +367,6 @@ newman run Restful_Booker.postman_collection.json -e restful_booking_env.postman
 ![image](https://github.com/user-attachments/assets/fd378642-650d-4d71-a693-6173fbf392b0)
 ![image](https://github.com/user-attachments/assets/00c30c22-dca5-4182-8c2e-3b6a1d190c37)
 
-**Contact**
-For questions or support, contact the development team at: Email: _nazrul15-7255@diu.edu.bd_
+## Contact
+For questions or support, contact the development team at:
+Email: _**nazrul15-7255@diu.edu.bd**_
