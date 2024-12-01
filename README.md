@@ -256,7 +256,7 @@ pm.test("Test the data type of response",()=>{
 ## _** Update the Booking Details**_
 ### Request URL: https://restful-booker.herokuapp.com/booking/{{id}}
 ### Request Method: PUT
-### Header: Content-Type: application/json
+### Headers: Content-Type: application/json, Cookie : token={{tokenID}}
 ### Pre-request Script:
 ``` console
 var firstName= pm.variables.replaceIn("{{$randomFirstName}}")
@@ -316,7 +316,7 @@ pm.environment.set("additionalneeds",additionalneeds)
 ## _** Update the Booking Details**_
 ### Request URL: https://restful-booker.herokuapp.com/booking/{{id}}
 ### Request Method: PATCH
-### Header: Content-Type: application/json
+### Headers: Content-Type: application/json, Cookie : token={{tokenID}}
 ### Pre-request Script: none
 ### Request body:
 ``` console
@@ -343,7 +343,7 @@ pm.environment.set("additionalneeds",additionalneeds)
 ## _** Delete Booking Details**_
 ### Request URL: https://restful-booker.herokuapp.com/booking/{{id}}
 ### Request Method: DELETE
-### Header: Content-Type: application/json
+### Headers: Content-Type: application/json, Cookie : token={{tokenID}}
 ### Response Body: None 
 ### post response script:
 ``` console
