@@ -2,13 +2,13 @@
 
 The Restful booker-API shows the testing of API using Postman, providing a collection of tests to validate various endpoints of the API and newman is used to generate all the test cases together.
 
-### **Features**
+_### **Features**_
 
-- Tests for GET, POST, PUT, PATCH, and DELETE requests
-- Collection of tests covering different API endpoints
-- Environment setup for easy switching between environments
-- Pre-request scripts for data setup
-- Test scripts for assertions and validations
+- Detailed testing for GET, POST, PUT, PATCH, and DELETE requests  
+- A structured collection of tests spanning various API endpoints  
+- Configured environments for effortless switching between different setups  
+- Pre-request scripts to initialize data before execution  
+- Validation and assertion scripts for thorough test coverage
 
 ### **Technology used:**
 - Postman
@@ -367,3 +367,5 @@ newman run Restful_Booker.postman_collection.json -e restful_booking_env.postman
 ![image](https://github.com/user-attachments/assets/fd378642-650d-4d71-a693-6173fbf392b0)
 ![image](https://github.com/user-attachments/assets/00c30c22-dca5-4182-8c2e-3b6a1d190c37)
 
+**Contact**
+For questions or support, contact the development team at: Email: _nazrul15-7255@diu.edu.bd_
