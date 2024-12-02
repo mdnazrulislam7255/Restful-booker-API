@@ -53,7 +53,7 @@ _### **Features**_
     -   Once the tests are complete, view the results in the Runner tab.
     -   Detailed test results can be viewed for each request.
 # Base URL
-The base URL of Student API is: https://restful-booker.herokuapp.com 
+The base URL is: https://restful-booker.herokuapp.com 
 
 # End points
 ## _** Create A Token For Authentication.**_
