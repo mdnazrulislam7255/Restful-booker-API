@@ -2,7 +2,7 @@
 
 The Restful booker-API shows the testing of API using Postman, providing a collection of tests to validate various endpoints of the API and newman is used to generate all the test cases together.
 
-_### **Features**_
+_###Features_
 
 - Detailed testing for GET, POST, PUT, PATCH, and DELETE requests  
 - A structured collection of tests spanning various API endpoints  
